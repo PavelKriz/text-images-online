@@ -3,5 +3,5 @@ venv
 **/__pycache__/
 **/admin.txt
 **/migratio
-
-!flower.jpg
+*/media/images/*
+!**/flower.jpg
