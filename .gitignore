@@ -2,4 +2,6 @@ venv
 **/db.sqlite3
 **/__pycache__/
 **/admin.txt
-**/migrations
+**/migratio
+
+!flower.jpg
